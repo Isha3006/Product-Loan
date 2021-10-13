@@ -1,6 +1,5 @@
 package com.rapipay.loan.Product;
 
-
 //import com.rapipay.loan.Products.Services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import java.math.BigDecimal;

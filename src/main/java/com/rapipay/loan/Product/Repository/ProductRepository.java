@@ -8,8 +8,8 @@ import com.rapipay.loan.Product.Product;
 
 
 public interface ProductRepository extends JpaRepository<Product, Integer>{
-//	public Product findByProductName(String productName);
 
 	public Product findByProductName(String productName);
-
+	
+	
 }
